@@ -1,7 +1,7 @@
 # Amazon Fashion Recommendation System
 
 ## Objective:
-Given a query point, recommend similar apparel products in e-commerce.
+Given a query point (Image), recommend similar apparel products in e-commerce.
 
 ## Steps are as follow:
 
